@@ -1,7 +1,7 @@
 
-  # landingpage
+  # Cleaner site
 
-  Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
+[![cleaner.png](https://i.postimg.cc/j590TKPj/cleaner.png)](https://postimg.cc/njvwKyd8)
 
   To preview and run the project on your device:
   1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
