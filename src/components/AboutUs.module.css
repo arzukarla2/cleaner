@@ -1,0 +1,123 @@
+.ourServices {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  font-family: var(--h1);
+  color: var(--pure-white);
+  text-align: left;
+}
+.button3 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-mini) var(--padding-16xl);
+  background-color: var(--primery-color-2);
+  position: absolute;
+  top: 336px;
+  left: 0;
+  border-radius: var(--br-31xl);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ametMinimMollit,
+.ametMinimMollit1 {
+  position: absolute;
+  top: 125px;
+  left: 0;
+  line-height: 24px;
+  display: inline-block;
+  width: 492px;
+  height: 89px;
+}
+.ametMinimMollit1 {
+  top: 267px;
+  width: 460px;
+  height: 39px;
+}
+.aboutUs1,
+.awardWinningCompany {
+  position: absolute;
+  left: 0;
+  font-size: var(--body-1-size);
+  font-weight: 500;
+}
+.aboutUs1 {
+  top: 0;
+  letter-spacing: 0.1em;
+  color: var(--primery-color-2);
+}
+.awardWinningCompany {
+  top: 230px;
+}
+.quicklyAndEasy {
+  margin: 0;
+}
+.quicklyAndEasyContainer {
+  position: absolute;
+  top: 33px;
+  left: 0;
+  font-size: var(--font-size-13xl);
+  color: var(--dark-gray);
+}
+.aboutUsChild {
+  position: absolute;
+  top: 10px;
+  left: 600px;
+  border-radius: var(--br-8xs) 0 0 0;
+  width: 245px;
+  height: 251px;
+  object-fit: cover;
+}
+.aboutUsInner,
+.aboutUsItem {
+  left: 870px;
+  border-radius: 0 0 var(--br-8xs) 0;
+}
+.aboutUsItem {
+  position: absolute;
+  top: 146px;
+  width: 299px;
+  height: 253px;
+  object-fit: cover;
+}
+.aboutUsInner {
+  top: 10px;
+  width: 300px;
+  height: 116px;
+}
+.aboutUsInner,
+.rectangleIcon,
+.vectorIcon {
+  position: absolute;
+  object-fit: cover;
+}
+.rectangleIcon {
+  top: 286px;
+  left: 600px;
+  border-radius: var(--br-8xs) 0 0 0;
+  width: 245px;
+  height: 113px;
+}
+.vectorIcon {
+  height: 5.26%;
+  width: 1.71%;
+  top: 57.64%;
+  right: 76.41%;
+  bottom: 37.09%;
+  left: 21.88%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.aboutUs {
+  position: absolute;
+  top: 968px;
+  left: 135px;
+  width: 1170px;
+  height: 399px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--black-color);
+  font-family: var(--h1);
+}

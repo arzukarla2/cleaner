@@ -1,0 +1,314 @@
+.background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 1440px;
+  height: 469px;
+}
+.houseCleaning,
+.services {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  color: var(--pure-white);
+}
+.houseCleaning {
+  top: 54px;
+  font-size: var(--body-1-size);
+  font-weight: 500;
+}
+.officeCleaning,
+.windowCleaning {
+  position: absolute;
+  top: 95px;
+  left: 0;
+}
+.windowCleaning {
+  top: 134px;
+}
+.floorCleaning,
+.groupChild {
+  position: absolute;
+  top: 173px;
+  left: 0;
+}
+.groupChild {
+  top: 33.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--pure-white);
+  box-sizing: border-box;
+  width: 64px;
+  height: 1px;
+}
+.servicesParent {
+  position: absolute;
+  top: 184px;
+  left: 632px;
+  width: 137px;
+  height: 192px;
+}
+.footerSectionChild,
+.footerSectionItem {
+  position: absolute;
+  top: 435.5px;
+  left: 925.5px;
+  border-top: 1px solid var(--color-lightskyblue);
+  box-sizing: border-box;
+  width: 516px;
+  height: 1px;
+}
+.footerSectionItem {
+  left: 0.5px;
+}
+.homePage {
+  cursor: pointer;
+  position: absolute;
+  top: 54px;
+  left: 0;
+}
+.servicePage {
+  top: 93px;
+}
+.contactUs,
+.faqsPage,
+.servicePage {
+  position: absolute;
+  left: 0;
+}
+.faqsPage {
+  top: 132px;
+  text-transform: capitalize;
+}
+.contactUs {
+  cursor: pointer;
+  top: 171px;
+}
+.usefulLinksParent {
+  position: absolute;
+  top: 184px;
+  left: 830px;
+  width: 122px;
+  height: 190px;
+}
+.div {
+  position: absolute;
+  top: 1px;
+  left: 32px;
+}
+.basephoneTelephoneIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.infoemailcomParent,
+.parent {
+  position: absolute;
+  top: 54px;
+  left: 0;
+  width: 186px;
+  height: 20px;
+}
+.infoemailcomParent {
+  top: 94px;
+  width: 158px;
+}
+.kingstreateMailbourne {
+  position: absolute;
+  top: 1px;
+  left: 32px;
+  text-transform: capitalize;
+}
+.contactParent,
+.kingstreateMailbourneParent {
+  position: absolute;
+  top: 134px;
+  left: 0;
+  width: 252px;
+  height: 20px;
+}
+.contactParent {
+  top: 184px;
+  left: 1029px;
+  height: 154px;
+}
+.copyrightByCleanex {
+  position: absolute;
+  top: 426px;
+  left: 538px;
+  letter-spacing: -0.03em;
+  text-transform: capitalize;
+  color: var(--pure-white);
+  text-align: center;
+}
+.ametMinimMollit {
+  line-height: 26px;
+}
+.ametMinimMollit1 {
+  line-height: 30px;
+}
+.ametMinimMollitContainer {
+  cursor: pointer;
+  position: absolute;
+  top: 62px;
+  left: 0;
+  display: inline-block;
+  width: 350px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--primery-color-2);
+  width: 30px;
+  height: 30px;
+}
+.facebookF1Icon {
+  position: absolute;
+  top: 7px;
+  left: 9px;
+  width: 11.2px;
+  height: 16px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.rectangleParent {
+  text-decoration: none;
+  position: absolute;
+  top: 170px;
+  left: 0;
+  width: 30px;
+  height: 30px;
+}
+.twitter1,
+.vectorIcon {
+  position: absolute;
+  overflow: hidden;
+}
+.vectorIcon {
+  height: 75%;
+  width: 89.29%;
+  top: 12.5%;
+  right: 4.76%;
+  bottom: 12.5%;
+  left: 5.95%;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+.twitter1 {
+  text-decoration: none;
+  top: 7px;
+  left: 7px;
+  width: 16.8px;
+  height: 16px;
+}
+.rectangleGroup {
+  position: absolute;
+  top: 170px;
+  left: 50px;
+  width: 30px;
+  height: 30px;
+}
+.linkedinIn1,
+.vectorIcon1 {
+  position: absolute;
+  overflow: hidden;
+}
+.vectorIcon1 {
+  height: 87.5%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 12.5%;
+  left: 0;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+.linkedinIn1 {
+  text-decoration: none;
+  top: 7px;
+  left: 8px;
+  width: 14.4px;
+  height: 16px;
+}
+.groupIcon,
+.rectangleContainer {
+  position: absolute;
+  top: 170px;
+  left: 100px;
+  width: 30px;
+  height: 30px;
+}
+.groupIcon {
+  height: 22.5%;
+  width: 51.71%;
+  top: 0;
+  right: 48.29%;
+  bottom: 77.5%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.rectangleWrapper,
+.vectorIcon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 30px;
+  height: 30px;
+}
+.vectorIcon2 {
+  height: 46.67%;
+  width: 46.67%;
+  top: 26.67%;
+  right: 26.67%;
+  bottom: 26.67%;
+  left: 26.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.groupParent {
+  text-decoration: none;
+  position: absolute;
+  top: 170px;
+  left: 150px;
+  width: 30px;
+  height: 30px;
+}
+.ametMinimMollitNonDeseruntParent {
+  position: absolute;
+  top: 173px;
+  left: 136px;
+  width: 350px;
+  height: 200px;
+  color: var(--pure-white);
+}
+.footer,
+.footerSection {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1441px;
+  height: 469px;
+}
+.footer {
+  top: 4535px;
+  left: -1px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-silver);
+  font-family: var(--h1);
+}

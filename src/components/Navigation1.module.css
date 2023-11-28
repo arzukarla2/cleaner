@@ -1,0 +1,104 @@
+@keyframes scale-up {
+  0% {
+    transform: scale(0.5);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+.navigationChild {
+  position: absolute;
+  height: 88.24%;
+  width: 15.47%;
+  top: 5.88%;
+  right: 84.53%;
+  bottom: 5.88%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.aboutUs,
+.home {
+  position: absolute;
+  top: 17px;
+}
+.home {
+  left: 300px;
+  font-weight: 500;
+  color: var(--black-color);
+}
+.aboutUs {
+  left: 392px;
+}
+.blog,
+.contact,
+.contact1,
+.services {
+  position: absolute;
+  top: 17px;
+  left: 513px;
+}
+.blog,
+.contact,
+.contact1 {
+  left: 631px;
+}
+.contact,
+.contact1 {
+  left: 719px;
+}
+.contact1 {
+  left: 834px;
+}
+.vectorIcon {
+  position: relative;
+  width: 20.7px;
+  height: 22.7px;
+  object-fit: cover;
+}
+.bookSchedule {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  font-family: var(--h1);
+  color: var(--pure-white);
+  text-align: center;
+  opacity: 1;
+}
+.bookSchedule.animate {
+  animation: 1s ease 0s 1 normal forwards scale-up;
+}
+.button {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-mini) var(--padding-16xl);
+  background-color: var(--primery-color-2);
+  position: absolute;
+  top: 0;
+  left: 954px;
+  border-radius: var(--br-31xl);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-3xs);
+  opacity: 1;
+}
+.button.animate {
+  animation: 2s ease 0s 1 normal forwards scale-up;
+}
+.navigation {
+  position: absolute;
+  height: 1.02%;
+  width: 81.25%;
+  top: 0.8%;
+  right: 9.38%;
+  bottom: 98.18%;
+  left: 9.38%;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--dark-gray);
+  font-family: var(--h1);
+}

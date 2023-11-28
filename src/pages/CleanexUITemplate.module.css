@@ -1,0 +1,31 @@
+.cleanexUiTemplateChild {
+  position: absolute;
+  top: 158px;
+  left: 0;
+  border-radius: 50%;
+  width: 349px;
+  height: 926px;
+  object-fit: cover;
+}
+.cleanexUiTemplateItem,
+.icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1041.53px;
+  object-fit: cover;
+}
+.cleanexUiTemplateItem {
+  left: 1154px;
+  border-radius: 50%;
+  width: 349px;
+  height: 621px;
+}
+.cleanexUiTemplate {
+  position: relative;
+  background-color: var(--pure-white);
+  width: 100%;
+  height: 5004px;
+  overflow: hidden;
+}

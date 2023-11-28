@@ -1,0 +1,207 @@
+.happyCustomers {
+  position: absolute;
+  top: 0;
+  left: 485px;
+  font-size: var(--body-1-size);
+  letter-spacing: 0.1em;
+  font-weight: 500;
+  color: var(--primery-color-2);
+}
+.whatOurCustomers {
+  position: absolute;
+  top: 37px;
+  left: 359px;
+  font-size: var(--font-size-13xl);
+  text-transform: capitalize;
+  color: var(--dark-gray);
+}
+.testimonialChild,
+.testimonialItem {
+  position: absolute;
+  top: 160px;
+  border-radius: var(--br-8xs);
+  height: 250px;
+}
+.testimonialChild {
+  left: 0;
+  background-color: var(--pure-white);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 377px;
+}
+.testimonialItem {
+  left: 397px;
+  background-color: var(--primery-color-2);
+  box-shadow: 0 4px 20px rgba(45, 102, 246, 0.2);
+  width: 376px;
+}
+.aliquaIdFugiat,
+.aliquaIdFugiat1 {
+  position: absolute;
+  top: 275px;
+  left: 55px;
+  line-height: 20px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 266px;
+  height: 76px;
+}
+.aliquaIdFugiat1 {
+  left: 452px;
+  color: var(--pure-white);
+}
+.testimonialInner {
+  position: absolute;
+  top: 450px;
+  left: 578px;
+  width: 15px;
+  height: 15px;
+  object-fit: cover;
+}
+.ellipseIcon,
+.testimonialChild1,
+.testimonialChild2,
+.testimonialChild3 {
+  position: absolute;
+  top: 453px;
+  left: 603px;
+  border-radius: 50%;
+  width: 9px;
+  height: 9px;
+  object-fit: cover;
+}
+.testimonialChild1,
+.testimonialChild2,
+.testimonialChild3 {
+  left: 540px;
+}
+.testimonialChild2,
+.testimonialChild3 {
+  left: 622px;
+}
+.testimonialChild3 {
+  left: 559px;
+}
+.courtneyHenry {
+  top: 210px;
+  left: 112px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+}
+.courtneyHenry,
+.darrellSteward,
+.nursingAssistant,
+.presidentOfSales {
+  position: absolute;
+  line-height: 20px;
+  text-transform: capitalize;
+}
+.darrellSteward {
+  top: 210px;
+  left: 508px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  color: var(--pure-white);
+}
+.nursingAssistant,
+.presidentOfSales {
+  top: 235px;
+  left: 120px;
+  font-size: var(--font-size-base);
+}
+.presidentOfSales {
+  left: 513px;
+  color: var(--pure-white);
+}
+.testimonialChild4,
+.testimonialChild5 {
+  position: absolute;
+  top: 125px;
+  left: 153px;
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+  object-fit: cover;
+}
+.testimonialChild5 {
+  left: 550px;
+}
+.frameIcon,
+.frameIcon1 {
+  position: absolute;
+  top: 371px;
+  left: 121px;
+  width: 134px;
+  height: 17px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.frameIcon1 {
+  left: 518px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 160px;
+  left: 793px;
+  border-radius: var(--br-8xs);
+  background-color: var(--pure-white);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 377px;
+  height: 250px;
+}
+.aliquaIdFugiat2 {
+  top: 275px;
+  left: 849px;
+  display: inline-block;
+  width: 266px;
+  height: 76px;
+}
+.aliquaIdFugiat2,
+.jeromeBell,
+.marketingCoordinator {
+  position: absolute;
+  line-height: 20px;
+  text-transform: capitalize;
+}
+.jeromeBell {
+  top: 210px;
+  left: 922px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+}
+.marketingCoordinator {
+  top: 235px;
+  left: 895px;
+  font-size: var(--font-size-base);
+}
+.frameIcon2,
+.testimonialChild6 {
+  position: absolute;
+  object-fit: cover;
+}
+.testimonialChild6 {
+  top: 125px;
+  left: 947px;
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+}
+.frameIcon2 {
+  top: 371px;
+  left: 915px;
+  width: 134px;
+  height: 17px;
+  overflow: hidden;
+}
+.testimonial {
+  position: absolute;
+  top: 3289px;
+  left: 135px;
+  width: 1170px;
+  height: 465px;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--black-color);
+  font-family: var(--h1);
+}

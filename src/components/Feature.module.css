@@ -1,0 +1,42 @@
+.trustedPartners {
+  position: absolute;
+  top: 0;
+  left: 135px;
+  letter-spacing: 0.1em;
+  font-weight: 500;
+}
+.brandsWhoTrust {
+  position: absolute;
+  top: 37px;
+  left: 135px;
+  font-size: var(--font-size-13xl);
+  text-transform: capitalize;
+  color: var(--dark-gray);
+}
+.featureChild {
+  position: absolute;
+  top: 105px;
+  left: 0;
+  background-color: var(--primery-color-2);
+  width: 1440px;
+  height: 108px;
+}
+.featureItem {
+  position: absolute;
+  top: 145px;
+  left: 135px;
+  width: 1170px;
+  height: 32px;
+  object-fit: cover;
+}
+.feature {
+  position: absolute;
+  top: 651px;
+  left: 0;
+  width: 1440px;
+  height: 213px;
+  text-align: center;
+  font-size: var(--body-1-size);
+  color: var(--primery-color-2);
+  font-family: var(--h1);
+}

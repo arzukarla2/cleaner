@@ -1,0 +1,114 @@
+@keyframes slide-in-top {
+  0% {
+    transform: translateY(-200px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+.getAQuote {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  font-family: var(--h1);
+  color: var(--pure-white);
+  text-align: left;
+  text-decoration: none;
+}
+.button2 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-mini) var(--padding-16xl);
+  background-color: var(--primery-color-2);
+  position: absolute;
+  top: 344px;
+  left: 0;
+  border-radius: var(--br-31xl);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  opacity: 0;
+}
+.button2.animate {
+  animation: 1s ease 0s 1 normal forwards slide-in-top;
+}
+.highlyProfessionalCleaning {
+  position: absolute;
+  top: 96px;
+  left: 0;
+}
+.easyToClean {
+  margin: 0;
+}
+.houseAndOffice {
+  margin: 0;
+  color: var(--dark-gray);
+}
+.easyToCleanContainer {
+  position: absolute;
+  top: 133px;
+  left: 0;
+  font-size: var(--h1-size);
+  line-height: 50px;
+  color: var(--primery-color-2);
+}
+.ametMinimMollit {
+  position: absolute;
+  top: 249px;
+  left: 0;
+  font-size: var(--font-size-base);
+  line-height: 24px;
+  display: inline-block;
+  width: 476px;
+  height: 65px;
+}
+.pngegg20221231t1232051 {
+  position: absolute;
+  top: 0;
+  left: 513px;
+  width: 516px;
+  height: 638px;
+  object-fit: cover;
+}
+.heroChild {
+  height: 14.26%;
+  width: 5.77%;
+  top: 16.3%;
+  right: 28.57%;
+  bottom: 69.44%;
+  left: 65.66%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.hero,
+.heroChild,
+.heroItem {
+  position: absolute;
+}
+.heroItem {
+  height: 19.28%;
+  width: 7.38%;
+  top: 28.06%;
+  right: 0;
+  bottom: 52.66%;
+  left: 92.62%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.hero {
+  top: 118px;
+  left: 135px;
+  width: 1057px;
+  height: 638px;
+  text-align: left;
+  font-size: var(--body-1-size);
+  color: var(--black-color);
+  font-family: var(--h1);
+}

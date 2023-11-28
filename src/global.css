@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --h1: "Work Sans";
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-sm: 14px;
+  --h1-size: 48px;
+  --body-1-size: 18px;
+  --font-size-13xl: 32px;
+  --font-size-xl: 20px;
+  --font-size-17xl: 36px;
+  --font-size-xs: 12px;
+
+  /* Colors */
+  --pure-white: #fff;
+  --primery-color-2: #1195ff;
+  --black-2: #666;
+  --dark-gray: #555;
+  --color-gray-100: #1e2746;
+  --black-color: #292929;
+  --color-gray-200: rgba(255, 255, 255, 0.86);
+  --color-gainsboro: #dedede;
+  --color-whitesmoke: #eee;
+  --black-1: #333;
+  --color-silver: #bcbcbc;
+  --color-lightskyblue: rgba(168, 193, 255, 0.15);
+
+  /* Gaps */
+  --gap-3xs: 10px;
+
+  /* Paddings */
+  --padding-mini: 15px;
+  --padding-16xl: 35px;
+
+  /* Border radiuses */
+  --br-31xl: 50px;
+  --br-8xs: 5px;
+}

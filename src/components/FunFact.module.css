@@ -1,0 +1,176 @@
+.funFactChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--primery-color-2);
+  width: 1170px;
+  height: 165px;
+}
+.groupIcon {
+  position: absolute;
+  height: 78.75%;
+  width: 27.12%;
+  top: 14.17%;
+  right: 72.88%;
+  bottom: 7.08%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.b,
+.teamMembers {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.teamMembers {
+  top: 42.49px;
+  font-size: var(--body-1-size);
+  font-weight: 600;
+}
+.parent {
+  position: absolute;
+  top: 0;
+  left: 77.69px;
+  width: 135px;
+  height: 63.49px;
+}
+.groupGroup,
+.groupIcon1 {
+  position: absolute;
+  height: 100%;
+  width: 20.16%;
+  top: 0;
+  right: 52.35%;
+  bottom: 0;
+  left: 27.49%;
+}
+.groupIcon1 {
+  height: 78.75%;
+  width: 26.21%;
+  top: 11.02%;
+  right: 73.79%;
+  bottom: 10.23%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.group {
+  position: absolute;
+  top: 0;
+  left: 74.35px;
+  width: 133px;
+  height: 63.49px;
+}
+.groupContainer,
+.groupIcon2 {
+  position: absolute;
+  height: 100%;
+  width: 19.65%;
+  top: 0;
+  right: 26.98%;
+  bottom: 0;
+  left: 53.36%;
+}
+.groupIcon2 {
+  height: 78.75%;
+  width: 22.22%;
+  top: 11.02%;
+  right: 77.78%;
+  bottom: 10.23%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.container,
+.groupDiv {
+  position: absolute;
+  top: 0;
+  left: 70px;
+  width: 155px;
+  height: 63.49px;
+}
+.groupDiv {
+  height: 100%;
+  width: 21.33%;
+  right: 0;
+  bottom: 0;
+  left: 78.67%;
+}
+.groupIcon3,
+.groupWrapper,
+.parent1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 157px;
+  height: 63.49px;
+}
+.groupIcon3,
+.groupWrapper {
+  left: 73.33px;
+}
+.groupIcon3 {
+  height: 78.75%;
+  width: 23.15%;
+  top: 11.02%;
+  right: 76.85%;
+  bottom: 10.23%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.groupParent1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 230.33px;
+  height: 63.49px;
+}
+.groupChild,
+.groupInner,
+.groupItem {
+  position: absolute;
+  top: 7.5px;
+  left: 259.5px;
+  border-right: 1px solid var(--pure-white);
+  box-sizing: border-box;
+  width: 1px;
+  height: 48px;
+}
+.groupInner,
+.groupItem {
+  left: 532.5px;
+}
+.groupInner {
+  left: 799.5px;
+}
+.groupParent {
+  position: absolute;
+  height: 38.48%;
+  width: 90.17%;
+  top: 30.91%;
+  right: 4.96%;
+  bottom: 30.61%;
+  left: 4.87%;
+}
+.funFact {
+  position: absolute;
+  top: 3024px;
+  left: 135px;
+  width: 1170px;
+  height: 165px;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+  color: var(--pure-white);
+  font-family: var(--h1);
+}

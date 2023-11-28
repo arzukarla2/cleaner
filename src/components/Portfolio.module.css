@@ -1,0 +1,132 @@
+.ourPortfolio {
+  margin: 0;
+  position: absolute;
+  top: 0;
+  left: 502px;
+  font-size: inherit;
+  letter-spacing: 0.1em;
+  font-weight: 500;
+  font-family: inherit;
+}
+.recentWorkShowcase {
+  position: absolute;
+  top: 37px;
+  left: 371px;
+  font-size: var(--font-size-13xl);
+  text-transform: capitalize;
+  color: var(--dark-gray);
+}
+.portfolioChild,
+.portfolioItem {
+  top: 125px;
+  width: 377px;
+  height: 240px;
+  object-fit: cover;
+}
+.portfolioChild {
+  position: absolute;
+  left: 0;
+  border-radius: var(--br-8xs);
+}
+.portfolioItem {
+  left: 794px;
+}
+.portfolioInner,
+.portfolioItem,
+.rectangleDiv {
+  position: absolute;
+  border-radius: var(--br-8xs);
+}
+.portfolioInner {
+  top: 110px;
+  left: 377px;
+  width: 417px;
+  height: 279px;
+  object-fit: cover;
+  mix-blend-mode: darken;
+}
+.rectangleDiv {
+  top: 365px;
+  left: 774px;
+  background: linear-gradient(180deg, #1195ff, rgba(217, 217, 217, 0));
+  width: 377px;
+  height: 239px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.corporateVehicleCleaning {
+  position: absolute;
+  top: 298px;
+  left: 422px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  color: var(--pure-white);
+}
+.professionalCleaner {
+  position: absolute;
+  top: 326px;
+  left: 422px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-200);
+}
+.groupIcon,
+.vectorIcon {
+  position: absolute;
+  object-fit: cover;
+}
+.vectorIcon {
+  height: 4.76%;
+  width: 1.96%;
+  top: 75%;
+  right: 36.04%;
+  bottom: 20.24%;
+  left: 62%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon {
+  top: 405px;
+  left: 578px;
+  width: 15px;
+  height: 15px;
+}
+.ellipseInput {
+  cursor: pointer;
+  position: absolute;
+  top: 408px;
+  left: 603px;
+}
+.ellipseIcon {
+  position: absolute;
+  top: 408px;
+  left: 540px;
+  border-radius: 50%;
+  width: 9px;
+  height: 9px;
+  object-fit: cover;
+}
+.ellipseFormcheck,
+.portfolioChild1 {
+  position: absolute;
+  top: 408px;
+  left: 622px;
+}
+.portfolioChild1 {
+  left: 559px;
+  border-radius: 50%;
+  width: 9px;
+  height: 9px;
+  object-fit: cover;
+}
+.portfolio {
+  position: absolute;
+  top: 2504px;
+  left: 135px;
+  width: 1171px;
+  height: 420px;
+  text-align: center;
+  font-size: var(--body-1-size);
+  color: var(--primery-color-2);
+  font-family: var(--h1);
+}
